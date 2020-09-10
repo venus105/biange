@@ -6,7 +6,7 @@
 ## 代码1：
    mkdir /home/mtproxy && cd /home/mtproxy
 ## 代码2：
-    curl -s -o mtproxy.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/tgdaili/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+    curl -s -o mtproxy.sh https://raw.githubusercontent.com/xiaoyaoguangshijie/xiaoyao1/master/zwz1018-master/tgdaili/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
  使用方式
 
 运行服务
