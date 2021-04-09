@@ -9,7 +9,7 @@
 						<li><a href="https://www.youtube.com/watch?v=n9mSZhvtxoA&t=181s">trojan代码</a> ： bash -c "$(curl -fsSL https://raw.githubusercontent.com/zwz1018/zwz1018/master/trojan-tls-nginx.sh)"</li>
 	<li><a href="https://www.youtube.com/watch?v=n9mSZhvtxoA&t=181s">trojan代码2</a> ： （ curl -O https://raw.githubusercontent.com/zwz1018/zwz1018/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh )"</li>
 	<li>以上命令如果安装出错，请先安装：apt-get install curl</li>
-						<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0&t=13s">BBR代码</a> ：wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh</li> <li>（BBR提示安装错误请先安装 ：yum -y install wget）</li>
+						<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0&t=13s">BBR代码</a> ：wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/xiaoyaoguangshijie/xiaoyao1/master/zwz1018-master/bbr.sh && chmod +x bbr.sh && ./bbr.sh</li> <li>（BBR提示安装错误请先安装 ：yum -y install wget）</li>
 	
 					
 
