@@ -4,7 +4,7 @@
   
 <ul>
 	<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0">多合一脚本，DD系统，BBR，xray等</a> ：wget -N --no-check-certificate https://raw.githubusercontent.com/xiaoyaoguangshijie/xiaoyao1/master/DDfuhe/DD.sh && chmod +x DD.sh && bash DD.sh
-)</li>
+</li>
 						<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0">v2ray代码</a> ：bash <(curl -s -L https://raw.githubusercontent.com/xiaoyaoguangshijie/xiaoyao1/master/zwz1018-master/v2ray.sh
 )</li>
 						<li><a href="https://www.youtube.com/watch?v=ST_1PSpJNuA&t=376s">wireguard代码</a> ：bash <(curl -s -L https://raw.githubusercontent.com/zwz1018/zwz1018/master/wireguard.sh)</li>
