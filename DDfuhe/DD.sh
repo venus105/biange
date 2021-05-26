@@ -78,7 +78,7 @@ bash <(curl -sSL "https://github.com/veip007/Netflix_Unlock_Information/raw/main
 }
 #16 xray
 xray(){
-bash <(curl -sSL "https://raw.githubusercontent.com/veip007/scripts/master/xray.sh")	
+bash <(curl -sSL "https://raw.githubusercontent.com/xiaoyaoguangshijie/xiaoyao1/master/DDfuhe/xray.sh")	
 }
 action=$1
 if [[ "${action}" == "monitor" ]]; then
